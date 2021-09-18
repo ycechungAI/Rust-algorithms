@@ -9,7 +9,6 @@ fn bubble_sort(items: &mut [i32]) {
         }
     }
 }
-
 fn main(){
     let mut array1 = [5, 9, 7, 8, 1, 2, 12, 1];
     println!("\n- Before Sort | Implementation -");
