@@ -1,0 +1,7 @@
+[package]
+name = "rust_bubble_sort"
+version = "0.1.0"
+authors = ["Eugene Chung <ycechung@myseneca.ca"]
+edition = "2018"
+
+[dependencies]
